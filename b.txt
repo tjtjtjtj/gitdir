@@ -1,1 +1,6 @@
 branch_bで作られたファイルです
+<<<<<<< HEAD
+=======
+
+testbの試験です
+>>>>>>> parent of d035634... Merge pull request #3 from tjtjtjtj/testa
